@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='libtibo',
-    version='0.1.0',
+    version='0.1.1',
     description='Personal test package',
     url='https://github.com/ThibaultChevalerias/libtibo',
     author='Thibault Chevalerias',
