@@ -1,5 +1,4 @@
-==========
 libtibo
-==========
+=======
 
-test
+A test library.

@@ -1,4 +1,4 @@
-from libtibo.dummy_module import flip_list, get_hello_str
+from libtibo.dummy import flip_list, get_hello_str
 import numpy as np
 
 def test_flip_list_empty():

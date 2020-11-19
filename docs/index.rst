@@ -11,6 +11,7 @@ Welcome to libtibo's documentation!
    :caption: Contents:
 
    readme
+   dummy_module
 
 
 
