@@ -1,0 +1,7 @@
+pytest
+
+python -m doctest -v .\libtibo\dummy.py
+
+cd docs/
+make clean
+make html
